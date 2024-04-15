@@ -1,0 +1,29 @@
+:root{
+    --Bright-orange: hsl(31, 77%, 52%);
+     --Dark-cyan: hsl(184, 100%, 22%);
+    --Very-dark-cyan: hsl(179, 100%, 13%);
+}
+
+.container-principal{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.container-1{
+    background-color: var(--Bright-orange);
+    width: 400px;
+    height: 600px;
+}
+
+.container-2{
+    background-color: var(--Dark-cyan);
+    width: 400px;
+    height: 600px;
+}
+
+.container-3{
+    background-color: var(--Very-dark-cyan);
+    width: 400px;
+    height: 600px;
+}
