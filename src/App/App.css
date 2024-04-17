@@ -12,18 +12,18 @@
 
 .container-1{
     background-color: var(--Bright-orange);
-    width: 400px;
-    height: 600px;
+    width: 300px;
+    height: 550px;
 }
 
 .container-2{
     background-color: var(--Dark-cyan);
-    width: 400px;
-    height: 600px;
+    width: 300px;
+    height: 550px;
 }
 
 .container-3{
     background-color: var(--Very-dark-cyan);
-    width: 400px;
-    height: 600px;
+    width: 300px;
+    height: 550px;
 }
